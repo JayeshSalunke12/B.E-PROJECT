@@ -1,0 +1,15 @@
+                                        The Emporium
+******************************************************************************************
+Pesticide (s)
+
+Product Name                            Price
+Pesticide                               Rs.500ml - Rs.200
+Pesticide                               Rs.750g
+Pesticide                               Rs.25kg
+
+Total Pesticides Price : Rs.850
+******************************************************************************************
+Total Price(before discount) = Rs.850
+Coupon Applied : 15% Off upto Rs.500
+Discount Offered : Rs.127.5
+Total Price(after discount) = Rs.722.5

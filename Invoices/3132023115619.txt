@@ -1,0 +1,21 @@
+                                        The Emporium
+******************************************************************************************
+Product(s)
+
+Product Name                            Price                         Quantity
+Fertilizere                             Rs.300                        1.5kg
+
+Total Price : Rs.300
+******************************************************************************************
+Appliance(s)
+
+Product Name                            Price
+Pesticide                               Rs.500ml - Rs.200
+Pesticide                               Rs.500ml – Rs.300
+
+Total Appliances Price : Rs.500
+******************************************************************************************
+Total Price(before discount) = Rs.800
+Coupon Applied : 10% Off upto Rs.750
+Discount Offered : Rs.80.0
+Total Price(after discount) = Rs.720.0
